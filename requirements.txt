@@ -1,0 +1,3 @@
+python-nmap==0.7.1
+nmap
+sqlmap
