@@ -8,7 +8,7 @@ Herramienta automática para escanear puertos y servicios con Nmap y realizar pr
 ```
 git clone https://github.com/afsh4ck/autoinject
 cd autoinject
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 sudo chmod 777 autoinject.py requirements.txt
 python3 autoinject.py
 ```
