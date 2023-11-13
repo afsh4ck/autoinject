@@ -4,7 +4,7 @@ Es la solución perfecta si quieres centralizar estas herramientas en una sola a
 
 ![autoinject](https://github.com/afsh4ck/autoinject/assets/132138425/330a7d75-1608-484f-93ab-af6f069b9cca)
 
-# Instalación
+## Instalación
 ```
 git clone https://github.com/afsh4ck/autoinject
 cd autoinject
